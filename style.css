@@ -1,0 +1,14 @@
+.todo_div {
+	display: flex;
+	margin-top: 20px;
+	gap: 10px;
+}
+
+.todo_ele {
+	width: 100%;
+	border: 0px;
+}
+
+.done_todo {
+	text-decoration: line-through;
+}
